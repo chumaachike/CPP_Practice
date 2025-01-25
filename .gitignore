@@ -1,0 +1,68 @@
+# Ignore CodeLite-specific files
+*.tags
+*.workspace
+*.session
+*.mk
+*.out
+*.layout
+*.swo
+*.swn
+*.swp
+*.swx
+*.user
+
+# Ignore CodeLite generated build files
+*.database
+*.project
+*.bak
+*.backup
+*.log
+*.debug
+*.release
+
+# Ignore build artifacts
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+*.class
+*.out
+*.d
+*.pch
+*.pdb
+*.idb
+
+# Ignore dependency directories
+build/
+cmake-build-*/  # If using CMake
+dist/
+bin/
+lib/
+obj/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore editor and IDE settings
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Ignore other temporary files
+*.tmp
+*.cache
+*.log
+*.lock
+*.bak
+*.swp
+
+# Ignore package manager directories
+node_modules/
+vendor/
