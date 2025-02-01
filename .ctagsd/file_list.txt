@@ -1,4 +1,7 @@
+C:\Users\edwar\Workspaces\TutorialWorkspace\Vectors\main.cpp
+C:\Users\edwar\Workspaces\TutorialWorkspace\RoomService\main.cpp
 C:\Users\edwar\Workspaces\TutorialWorkspace\SizeOf\main.cpp
 C:\Users\edwar\Workspaces\TutorialWorkspace\PrimitiveTypes\main.cpp
+C:\Users\edwar\Workspaces\TutorialWorkspace\Arrays\main.cpp
 C:\Users\edwar\Workspaces\TutorialWorkspace\BasicIO\main.cpp
 C:\Users\edwar\Workspaces\TutorialWorkspace\FirstProgram\main.cpp
